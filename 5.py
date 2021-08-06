@@ -1,3 +1,7 @@
+#TASK 2
+#SIRSS2215
+#ASHUTOSH KUMAR MISHRA
+
 a=[]
 n=int(input("Enter number of elements:"))
 for i in range(1,n+1):

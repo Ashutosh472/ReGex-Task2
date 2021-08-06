@@ -1,3 +1,9 @@
+#TASK 2
+#SIRSS2215
+#ASHUTOSH KUMAR MISHRA
+
+
+
 def is_prime(n):
   for i in range(2,n):
     if n%i==0:

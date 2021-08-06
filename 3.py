@@ -1,3 +1,7 @@
+#TASK 2
+#SIRSS2215
+#ASHUTOSH KUMAR MISHRA
+
 n=int(input("Enter number of strings to be checked:"))
 ls=[]
 for i in range(0,n):
